@@ -38,3 +38,9 @@ The objective of this project is to conduct a comprehensive analysis of the user
 - Scikit-learn for machine learning algorithms
 - Spotify API for data retrieval
 - Jupyter Notebook for interactive development and documentation
+
+## **Overview of the Data**
+- Streaming History Music
+- Streaming History Podcast
+- Spotify API Data
+- Spotify Data
