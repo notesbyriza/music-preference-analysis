@@ -30,3 +30,11 @@ The objective of this project is to conduct a comprehensive analysis of the user
    - Summarize findings from the analysis and derive actionable insights about my music preferences.
    - Provide personalized recommendations for new music, playlists, or artists based on the analysis results.
    - Offer suggestions for improving my music listening experience on Spotify.
+  
+## **Tools and Technologies:**
+- Python programming language
+- Pandas, NumPy for data manipulation
+- Matplotlib, Seaborn for data visualization
+- Scikit-learn for machine learning algorithms
+- Spotify API for data retrieval
+- Jupyter Notebook for interactive development and documentation
