@@ -22,7 +22,7 @@ The objective of this project is to conduct a comprehensive analysis of the user
    - Create new variables or metrics to capture specific aspects of my music preferences.
 
 5. **Modeling and Analysis:**
-   - Conduct cluster analysis to group similar genres, artists, or tracks based on my behavior.
+   - Conduct cluster analysis to group similar artists, or tracks based on my behavior.
    - Explore sentiment analysis to understand the emotional response associated with different types of music.
 
 6. **Insights and Recommendations:**
